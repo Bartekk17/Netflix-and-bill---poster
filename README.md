@@ -21,3 +21,5 @@ In our project, we focused on the financial analysis of Netflix. Specifically, w
 - Netflix stock prices depending on days of the week and months
 - The impact of specific events on stock prices
 - The popularity of Netflix in various countries
+
+![poster](poster.png)

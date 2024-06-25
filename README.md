@@ -22,4 +22,5 @@ In our project, we focused on the financial analysis of Netflix. Specifically, w
 - The impact of specific events on stock prices
 - The popularity of Netflix in various countries
 
+### The final result
 ![poster](poster.png)

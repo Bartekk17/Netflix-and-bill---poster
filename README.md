@@ -8,7 +8,7 @@ Project done by Kacper Cholewiński, Maksymilian Tabian and Bartosz Szymański, 
 - canva
   
 #### Sources:
-[Dataset 1]https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks
+- Dataset 1[https://www.kaggle.com/datasets/ranugadisansagamage/netflix-stocks]
 [Dataset 2]https://worldpopulationreview.com/country-rankings/netflix-users-by-country
 [Dataset 3]https://ir.aboutamazon.com/overview/default.aspx
 [Dataset 4]https://ir.netflix.net/ir-overview/profile/default.aspx
